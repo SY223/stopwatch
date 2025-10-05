@@ -25,7 +25,6 @@
 
 /* BODY */
 body {
-  padding: 16px;
   background-color: #9d2e28;
 }
 
@@ -106,9 +105,8 @@ body {
 .big-btn {
   height: 120px;
   width: 120px;
-  border-radius: 55%;
+  border-radius: 40%;
   border: none;
-  background: var(--pill);
   font-weight: 700;
   font-size: 1.5rem;
   cursor: pointer;
