@@ -228,8 +228,6 @@ footer small {
   background-color: #f7ede2;
   color: var(--hover-text);
 }
-  
-
 
 /* MEDIA QUERIES */
 @media (min-width: 768px) {
